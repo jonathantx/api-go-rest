@@ -1,11 +1,4 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <title>README - Projeto API Restful Go e React</title>
-</head>
-
 <body>
     <header>
         <h1>Projeto de Desenvolvimento de API Restful com Go e React</h1>
